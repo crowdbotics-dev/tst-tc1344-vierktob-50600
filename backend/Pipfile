@@ -35,3 +35,4 @@ django-import-export = "*"
 drf-spectacular = "~=0.24.2"
 cb-django-articles = {editable = true, path = "./modules/django_articles"}
 cb-firebase-push-notifications = {editable = true, path = "./modules/firebase_push_notifications"}
+cb-django-push-notifications = {editable = true, path = "./modules/django_push_notifications"}
